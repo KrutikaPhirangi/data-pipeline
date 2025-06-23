@@ -1,6 +1,6 @@
 name: Build and Push Docker Image
 
-# Trigger workflow on tag pushes (e.g., v1.0.0, release-1.2.3)
+# Trigger workflow on tag pushes
 on:
   push:
     #tags:
